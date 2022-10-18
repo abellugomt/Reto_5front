@@ -1,7 +1,7 @@
 var selectedRow = null
 
 const host = '129.80.62.240';
-//const host = 'localhost';
+//git push -u origin mainconst host = 'localhost';
 
 //*******   *******    *******  *******/ 
 //*******    CRUD  RESERVATION     *******/ 
