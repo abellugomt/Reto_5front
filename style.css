@@ -17,7 +17,7 @@ table.list{
 }
 
 td{
-    border: 1px solid rgb(204,200,200);
+    border: 1px solid rgb(90, 41, 228);
     text-align: left;
     padding: 8px 15px;
 }
@@ -74,6 +74,6 @@ button:hover{
 .titlePage{
     text-align: center;
     width: 100%;
-    color: #eee;
+    color: rgb(31, 85, 233);
 }
 
